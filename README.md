@@ -2,10 +2,7 @@
 
 ## Overview
 
-This is a git repo of the URL shortener WordPress plugin found at [WordPress Extend]: http://wordpress.org/extend/plugins/url-shortener/
-
-[WordPress Extend]: http://wordpress.org/extend/plugins/url-shortener/
-
+This is a git repo of the URL shortener WordPress plugin found at [WordPress Extend]: [http://wordpress.org/extend/plugins/url-shortener/]
 
 ## Usage
 
@@ -15,6 +12,14 @@ This is a git repo of the URL shortener WordPress plugin found at [WordPress Ext
 
 ## Wiki
 
-The wiki for this plugin can be found at: http://wiki.fusedthought.com/docs/url-shortener-wordpress-plugin
+The wiki for this plugin can be found at: [http://wiki.fusedthought.com/docs/url-shortener-wordpress-plugin]
 
 
+##Screenshots
+[http://wiki.fusedthought.com/docs/url-shortener-wordpress-plugin]
+
+
+
+[WordPress Extend]: http://wordpress.org/extend/plugins/url-shortener/
+[http://wordpress.org/extend/plugins/url-shortener/]: http://wordpress.org/extend/plugins/url-shortener/
+[http://wiki.fusedthought.com/docs/url-shortener-wordpress-plugin]: http://wiki.fusedthought.com/docs/url-shortener-wordpress-plugin
