@@ -6,8 +6,9 @@ This is a git repo of the URL shortener WordPress plugin found at [WordPress Ext
 
 ## Usage
 
-1. Upload the url-shortener folder in this repository to your wordpress plugins folder
-2. Activate the plugin via the plugin dashboard in your wordpress administration
+1. Create a folder named "url-shortener" in the "wp-contents/plugins" directory.
+2. Upload the contents of this repository into the url-shortener folder
+3. Activate the plugin via the plugin dashboard in your wordpress administration
 
 
 ## Wiki
